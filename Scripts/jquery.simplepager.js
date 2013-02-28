@@ -31,10 +31,10 @@
             PageSizeText: 'Results per page',                   //Text for the dropdownlist 
             CurrentPageText: 'Current Page',                    //Tooltip for the current page textbox 
             EmptyDataText: '[No data to display]',              //Text in case that the plugin doesn't found data
-            ImageFirstPageUrl: '../Styles/Images/first.png',    //Image Url for the first page button
-            ImagePreviousPageUrl: '../Styles/Images/prev.png',  //Image Url for the previous page button
-            ImageNextPageUrl: '../Styles/Images/next.png',      //Image Url for the next page button
-            ImageLastPageUrl: '../Styles/Images/last.png',      //Image Url for the last page button
+            ImageFirstPageUrl: 'Styles/Images/first.png',    //Image Url for the first page button
+            ImagePreviousPageUrl: 'Styles/Images/prev.png',  //Image Url for the previous page button
+            ImageNextPageUrl: 'Styles/Images/next.png',      //Image Url for the next page button
+            ImageLastPageUrl: 'Styles/Images/last.png',      //Image Url for the last page button
             OnDataPagerAfterClick: null                         //Event that is triggered after the change page click
         };
 
