@@ -1,0 +1,31 @@
+﻿#simplepagerDiv
+{
+    font-family:Arial;
+    font-size:12px;
+    white-space: nowrap;
+}
+    
+#simplepagerDiv .imgPager
+{
+    cursor:pointer;
+}
+
+#simplepagerDiv .imgPager .first
+{
+}
+
+#simplepagerDiv .imgPager .previous
+{
+}
+
+#simplepagerDiv .imgPager .next
+{
+}
+
+#simplepagerDiv .imgPager .last
+{
+}
+
+#simplepagerDiv .ddlResultsPerPage
+{
+}
