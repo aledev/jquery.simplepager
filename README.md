@@ -14,7 +14,7 @@ Basic Functionality:
 
 You have to add the jquery and the simplepager library (with his respective css). 
 
-You have to have a div who has a table with this structure:
+This plugin needs that the table has this structure:
 
  ```
  <table>
